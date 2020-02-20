@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.exe
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.deps.json
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.dll
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\netcoreapp3.0\01. Match Full Name.pdb
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.dll
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\netcoreapp3.0\01. Match Full Name.pdb
