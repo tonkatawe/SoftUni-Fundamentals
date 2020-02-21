@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.0\01. Furniture.exe
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.0\01. Furniture.deps.json
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.0\01. Furniture.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.0\01. Furniture.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.0\01. Furniture.dll
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\bin\Debug\netcoreapp3.0\01. Furniture.pdb
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.0\01. Furniture.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.0\01. Furniture.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.0\01. Furniture.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.0\01. Furniture.dll
+C:\GitHub repos\C# Fundamentals\Regular Expressions - Exercise\01. Furniture\obj\Debug\netcoreapp3.0\01. Furniture.pdb
