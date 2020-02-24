@@ -1,0 +1,11 @@
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\obj\Debug\netcoreapp3.0\02. Generator.csprojAssemblyReference.cache
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\obj\Debug\netcoreapp3.0\02. Generator.AssemblyInfoInputs.cache
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\obj\Debug\netcoreapp3.0\02. Generator.AssemblyInfo.cs
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\bin\Debug\netcoreapp3.0\02. Generator.exe
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\bin\Debug\netcoreapp3.0\02. Generator.deps.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\bin\Debug\netcoreapp3.0\02. Generator.runtimeconfig.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\bin\Debug\netcoreapp3.0\02. Generator.runtimeconfig.dev.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\bin\Debug\netcoreapp3.0\02. Generator.dll
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\bin\Debug\netcoreapp3.0\02. Generator.pdb
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\obj\Debug\netcoreapp3.0\02. Generator.dll
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\02. Generator\obj\Debug\netcoreapp3.0\02. Generator.pdb

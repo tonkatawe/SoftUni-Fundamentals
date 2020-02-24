@@ -1,0 +1,11 @@
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\bin\Debug\netcoreapp3.0\03. Train.exe
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\bin\Debug\netcoreapp3.0\03. Train.deps.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\bin\Debug\netcoreapp3.0\03. Train.runtimeconfig.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\bin\Debug\netcoreapp3.0\03. Train.runtimeconfig.dev.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\bin\Debug\netcoreapp3.0\03. Train.dll
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\bin\Debug\netcoreapp3.0\03. Train.pdb
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\obj\Debug\netcoreapp3.0\03. Train.csprojAssemblyReference.cache
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\obj\Debug\netcoreapp3.0\03. Train.AssemblyInfoInputs.cache
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\obj\Debug\netcoreapp3.0\03. Train.AssemblyInfo.cs
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\obj\Debug\netcoreapp3.0\03. Train.dll
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\03. Train\obj\Debug\netcoreapp3.0\03. Train.pdb

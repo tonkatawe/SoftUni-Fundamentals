@@ -1,0 +1,11 @@
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\bin\Debug\netcoreapp3.0\01. Materials.exe
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\bin\Debug\netcoreapp3.0\01. Materials.deps.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\bin\Debug\netcoreapp3.0\01. Materials.runtimeconfig.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\bin\Debug\netcoreapp3.0\01. Materials.runtimeconfig.dev.json
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\bin\Debug\netcoreapp3.0\01. Materials.dll
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\bin\Debug\netcoreapp3.0\01. Materials.pdb
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\obj\Debug\netcoreapp3.0\01. Materials.csprojAssemblyReference.cache
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\obj\Debug\netcoreapp3.0\01. Materials.AssemblyInfoInputs.cache
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\obj\Debug\netcoreapp3.0\01. Materials.AssemblyInfo.cs
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\obj\Debug\netcoreapp3.0\01. Materials.dll
+C:\Users\vlaho\source\repos\Motion Bootcamp - Entry Exam\01. Materials\obj\Debug\netcoreapp3.0\01. Materials.pdb
