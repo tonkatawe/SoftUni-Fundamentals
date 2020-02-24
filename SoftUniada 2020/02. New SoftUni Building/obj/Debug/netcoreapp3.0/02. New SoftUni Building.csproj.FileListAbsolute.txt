@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\bin\Debug\netcoreapp3.0\02. New SoftUni Building.exe
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\bin\Debug\netcoreapp3.0\02. New SoftUni Building.deps.json
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\bin\Debug\netcoreapp3.0\02. New SoftUni Building.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\bin\Debug\netcoreapp3.0\02. New SoftUni Building.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\bin\Debug\netcoreapp3.0\02. New SoftUni Building.dll
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\bin\Debug\netcoreapp3.0\02. New SoftUni Building.pdb
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\obj\Debug\netcoreapp3.0\02. New SoftUni Building.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\obj\Debug\netcoreapp3.0\02. New SoftUni Building.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\obj\Debug\netcoreapp3.0\02. New SoftUni Building.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\obj\Debug\netcoreapp3.0\02. New SoftUni Building.dll
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\02. New SoftUni Building\obj\Debug\netcoreapp3.0\02. New SoftUni Building.pdb

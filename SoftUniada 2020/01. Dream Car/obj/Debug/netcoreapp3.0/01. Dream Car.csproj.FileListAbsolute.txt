@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\obj\Debug\netcoreapp3.0\01. Dream Car.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\obj\Debug\netcoreapp3.0\01. Dream Car.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\obj\Debug\netcoreapp3.0\01. Dream Car.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\bin\Debug\netcoreapp3.0\01. Dream Car.exe
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\bin\Debug\netcoreapp3.0\01. Dream Car.deps.json
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\bin\Debug\netcoreapp3.0\01. Dream Car.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\bin\Debug\netcoreapp3.0\01. Dream Car.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\bin\Debug\netcoreapp3.0\01. Dream Car.dll
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\bin\Debug\netcoreapp3.0\01. Dream Car.pdb
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\obj\Debug\netcoreapp3.0\01. Dream Car.dll
+C:\GitHub repos\C# Fundamentals\SoftUniada 2020\01. Dream Car\obj\Debug\netcoreapp3.0\01. Dream Car.pdb
