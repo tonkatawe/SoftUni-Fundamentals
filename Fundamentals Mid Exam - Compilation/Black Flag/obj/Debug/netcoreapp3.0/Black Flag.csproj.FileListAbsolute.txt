@@ -1,0 +1,10 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\bin\Debug\netcoreapp3.0\Black Flag.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\bin\Debug\netcoreapp3.0\Black Flag.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\bin\Debug\netcoreapp3.0\Black Flag.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\bin\Debug\netcoreapp3.0\Black Flag.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\bin\Debug\netcoreapp3.0\Black Flag.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\bin\Debug\netcoreapp3.0\Black Flag.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\obj\Debug\netcoreapp3.0\Black Flag.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\obj\Debug\netcoreapp3.0\Black Flag.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\obj\Debug\netcoreapp3.0\Black Flag.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Black Flag\obj\Debug\netcoreapp3.0\Black Flag.pdb

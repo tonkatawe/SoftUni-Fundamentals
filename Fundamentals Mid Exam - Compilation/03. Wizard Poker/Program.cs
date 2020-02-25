@@ -12,7 +12,7 @@ namespace _03._Wizard_Poker
             string command = Console.ReadLine();
             string cardName = string.Empty;
             string cardTwo = string.Empty;
-            byte indexOfCard = 0;
+            int indexOfCard = 0;
             while (command != "Ready")
             {
                 List<string> tokens = command.Split().ToList();
@@ -24,7 +24,7 @@ namespace _03._Wizard_Poker
                 if (tokens[0] == "Insert")
                 {
                     cardName = tokens[1];
-                    indexOfCard = byte.Parse(tokens[2]);
+                    indexOfCard = int.Parse(tokens[2]);
                     InsertCard(deckOfCards, newDeckOfCards, cardName, indexOfCard);
                 }
                 if (tokens[0] == "Remove")
@@ -82,10 +82,10 @@ namespace _03._Wizard_Poker
                 Console.WriteLine("Card not found.");
             }
         }
-        static void InsertCard(List<string> deckOfCards, List<string> newDeckOfCards, string cardNames, byte indexOfCard)
+        static void InsertCard(List<string> deckOfCards, List<string> newDeckOfCards, string cardNames, int indexOfCard)
         {
             bool isCardContainInDeck = deckOfCards.Contains(cardNames);
-            if (isCardContainInDeck && indexOfCard < newDeckOfCards.Count)
+            if (isCardContainInDeck && indexOfCard < newDeckOfCards.Count && indexOfCard >= 0)
             {
                 newDeckOfCards.Insert(indexOfCard, cardNames);
             }

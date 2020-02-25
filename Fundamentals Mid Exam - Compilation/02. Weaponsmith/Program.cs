@@ -5,6 +5,7 @@ namespace _02._Weaponsmith
 {
     class Program
     {
+        //need to chek 80/100
         static void Main(string[] args)
         {
             string[] weaponParts = Console.ReadLine().Split("|").ToArray();

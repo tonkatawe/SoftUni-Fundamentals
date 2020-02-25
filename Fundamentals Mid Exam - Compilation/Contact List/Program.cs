@@ -10,12 +10,16 @@ namespace _03._Contact_List
         {
             List<string> contactList = Console.ReadLine().Split().ToList();
             string contact = string.Empty;
+            string[] tokens;
             int contactIndex = 0;
             int count = 0;
-            while (true)
+            string task = string.Empty;
+            string command = Console.ReadLine();
+            while (command != "Print")
             {
-                string[] tokens = Console.ReadLine().Split();
-                if (tokens[0] == "Add")
+                tokens = command.Split();
+                task = tokens[0];
+                if (task == "Add")
                 {
                     contact = tokens[1];
                     contactIndex = int.Parse(tokens[2]);
@@ -32,7 +36,7 @@ namespace _03._Contact_List
                         }
                     }
                 }
-                else if (tokens[0] == "Remove")
+                else if (task == "Remove")
                 {
                     contactIndex = int.Parse(tokens[1]);
                     if (contactIndex < contactList.Count && contactIndex >= 0)
@@ -40,7 +44,7 @@ namespace _03._Contact_List
                         contactList.RemoveAt(contactIndex);
                     }
                 }
-                else if (tokens[0] == "Export")
+                else if (task == "Export")
                 {
                     if (contactIndex >= 0 && count >= 0)
                     {
@@ -59,7 +63,7 @@ namespace _03._Contact_List
                     }
 
                 }
-                else if (tokens[0] == "Print")
+                if (task == "Print")
                 {
                     if (tokens[1] == "Normal")
                     {
@@ -76,6 +80,7 @@ namespace _03._Contact_List
                     }
 
                 }
+                command = Console.ReadLine();
             }
         }
     }
