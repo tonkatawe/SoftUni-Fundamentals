@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Array", "Number Array\Number Array.csproj", "{871502AF-EAF7-4EC5-8498-6E51CDD66D8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Array", "Number Array\Number Array.csproj", "{871502AF-EAF7-4EC5-8498-6E51CDD66D8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact List", "Contact List\Contact List.csproj", "{DE6F9024-5C7A-438F-80B5-0D7D906F430C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact List", "Contact List\Contact List.csproj", "{DE6F9024-5C7A-438F-80B5-0D7D906F430C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance Calculator", "Distance Calculator\Distance Calculator.csproj", "{E72B938E-8FEA-4F21-AEC1-A4DB1B925D35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Distance Calculator", "Distance Calculator\Distance Calculator.csproj", "{E72B938E-8FEA-4F21-AEC1-A4DB1B925D35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Biscuits Factory", "01. Biscuits Factory\01. Biscuits Factory.csproj", "{FF80C224-1243-4BA2-B862-6113FE907368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Biscuits Factory", "01. Biscuits Factory\01. Biscuits Factory.csproj", "{FF80C224-1243-4BA2-B862-6113FE907368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Weaponsmith", "02. Weaponsmith\02. Weaponsmith.csproj", "{92BCF3C6-4735-4277-A570-11743466C875}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Weaponsmith", "02. Weaponsmith\02. Weaponsmith.csproj", "{92BCF3C6-4735-4277-A570-11743466C875}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Wizard Poker", "03. Wizard Poker\03. Wizard Poker.csproj", "{30751DBF-999A-4A13-BE8D-0773DA95D516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Wizard Poker", "03. Wizard Poker\03. Wizard Poker.csproj", "{30751DBF-999A-4A13-BE8D-0773DA95D516}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Disneyland Journey", "01. Disneyland Journey\01. Disneyland Journey.csproj", "{5F4234ED-02EC-4664-B150-B3B1632FD031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Archery Tournament", "02. Archery Tournament\02. Archery Tournament.csproj", "{1ADBBBCE-2F9C-4FA5-911F-14C07FD742F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. School Library", "03. School Library\03. School Library.csproj", "{7CC00D08-D046-4A2E-9E3F-0ED386B09D19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{30751DBF-999A-4A13-BE8D-0773DA95D516}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30751DBF-999A-4A13-BE8D-0773DA95D516}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30751DBF-999A-4A13-BE8D-0773DA95D516}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4234ED-02EC-4664-B150-B3B1632FD031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4234ED-02EC-4664-B150-B3B1632FD031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4234ED-02EC-4664-B150-B3B1632FD031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4234ED-02EC-4664-B150-B3B1632FD031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ADBBBCE-2F9C-4FA5-911F-14C07FD742F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ADBBBCE-2F9C-4FA5-911F-14C07FD742F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ADBBBCE-2F9C-4FA5-911F-14C07FD742F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ADBBBCE-2F9C-4FA5-911F-14C07FD742F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC00D08-D046-4A2E-9E3F-0ED386B09D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC00D08-D046-4A2E-9E3F-0ED386B09D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC00D08-D046-4A2E-9E3F-0ED386B09D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC00D08-D046-4A2E-9E3F-0ED386B09D19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
