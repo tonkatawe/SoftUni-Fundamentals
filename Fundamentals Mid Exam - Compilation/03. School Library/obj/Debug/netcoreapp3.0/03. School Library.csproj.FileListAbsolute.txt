@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\bin\Debug\netcoreapp3.0\03. School Library.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. School Library\obj\Debug\netcoreapp3.0\03. School Library.pdb

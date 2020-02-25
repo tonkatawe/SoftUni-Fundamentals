@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\bin\Debug\netcoreapp3.0\02. Archery Tournament.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\bin\Debug\netcoreapp3.0\02. Archery Tournament.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\bin\Debug\netcoreapp3.0\02. Archery Tournament.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\bin\Debug\netcoreapp3.0\02. Archery Tournament.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\bin\Debug\netcoreapp3.0\02. Archery Tournament.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\bin\Debug\netcoreapp3.0\02. Archery Tournament.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\obj\Debug\netcoreapp3.0\02. Archery Tournament.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\obj\Debug\netcoreapp3.0\02. Archery Tournament.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\obj\Debug\netcoreapp3.0\02. Archery Tournament.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\obj\Debug\netcoreapp3.0\02. Archery Tournament.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. Archery Tournament\obj\Debug\netcoreapp3.0\02. Archery Tournament.csprojAssemblyReference.cache

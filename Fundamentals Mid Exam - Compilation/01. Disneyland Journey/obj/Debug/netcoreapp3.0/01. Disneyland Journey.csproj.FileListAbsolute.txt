@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\bin\Debug\netcoreapp3.0\01. Disneyland Journey.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Disneyland Journey\obj\Debug\netcoreapp3.0\01. Disneyland Journey.csprojAssemblyReference.cache
