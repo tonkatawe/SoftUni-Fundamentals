@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Treasure Hunt/1.0.0": {
+        "runtime": {
+          "Treasure Hunt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Treasure Hunt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

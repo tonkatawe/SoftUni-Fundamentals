@@ -21,13 +21,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Archery Tournament", "0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. School Library", "03. School Library\03. School Library.csproj", "{7CC00D08-D046-4A2E-9E3F-0ED386B09D19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Tanks Collector", "03. Tanks Collector\03. Tanks Collector.csproj", "{D19ED4FE-2DB3-46F6-A1AC-38DC5CEB6463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Tanks Collector", "03. Tanks Collector\03. Tanks Collector.csproj", "{D19ED4FE-2DB3-46F6-A1AC-38DC5CEB6463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Friendlist Maintenance", "02. Friendlist Maintenance\02. Friendlist Maintenance.csproj", "{09077EE9-E2B3-4FA4-B718-169F40E6E060}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Friendlist Maintenance", "02. Friendlist Maintenance\02. Friendlist Maintenance.csproj", "{09077EE9-E2B3-4FA4-B718-169F40E6E060}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Experience Gaining", "01. Experience Gaining\01. Experience Gaining.csproj", "{6C9F9A53-F73D-43B3-8B26-5B46533B582B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Experience Gaining", "01. Experience Gaining\01. Experience Gaining.csproj", "{6C9F9A53-F73D-43B3-8B26-5B46533B582B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black Flag", "Black Flag\Black Flag.csproj", "{420BDA22-64FC-4FA7-852D-4E11FCF385B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Black Flag", "Black Flag\Black Flag.csproj", "{420BDA22-64FC-4FA7-852D-4E11FCF385B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treasure Hunt", "Treasure Hunt\Treasure Hunt.csproj", "{ADAFAD74-247A-48AC-A3D9-79CF31455728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Man O War", "Man O War\Man O War.csproj", "{57098C57-9AE1-42E5-B513-EB1A2DCDFDCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{420BDA22-64FC-4FA7-852D-4E11FCF385B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{420BDA22-64FC-4FA7-852D-4E11FCF385B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{420BDA22-64FC-4FA7-852D-4E11FCF385B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAFAD74-247A-48AC-A3D9-79CF31455728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAFAD74-247A-48AC-A3D9-79CF31455728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAFAD74-247A-48AC-A3D9-79CF31455728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAFAD74-247A-48AC-A3D9-79CF31455728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57098C57-9AE1-42E5-B513-EB1A2DCDFDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57098C57-9AE1-42E5-B513-EB1A2DCDFDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57098C57-9AE1-42E5-B513-EB1A2DCDFDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57098C57-9AE1-42E5-B513-EB1A2DCDFDCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\bin\Debug\netcoreapp3.0\Treasure Hunt.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\bin\Debug\netcoreapp3.0\Treasure Hunt.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\bin\Debug\netcoreapp3.0\Treasure Hunt.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\bin\Debug\netcoreapp3.0\Treasure Hunt.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\bin\Debug\netcoreapp3.0\Treasure Hunt.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\bin\Debug\netcoreapp3.0\Treasure Hunt.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\obj\Debug\netcoreapp3.0\Treasure Hunt.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\obj\Debug\netcoreapp3.0\Treasure Hunt.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\obj\Debug\netcoreapp3.0\Treasure Hunt.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\obj\Debug\netcoreapp3.0\Treasure Hunt.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Treasure Hunt\obj\Debug\netcoreapp3.0\Treasure Hunt.pdb
