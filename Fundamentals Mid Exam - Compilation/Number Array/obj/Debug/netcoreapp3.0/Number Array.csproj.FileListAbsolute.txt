@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\bin\Debug\netcoreapp3.0\Number Array.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\bin\Debug\netcoreapp3.0\Number Array.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\bin\Debug\netcoreapp3.0\Number Array.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\bin\Debug\netcoreapp3.0\Number Array.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\bin\Debug\netcoreapp3.0\Number Array.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\bin\Debug\netcoreapp3.0\Number Array.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\obj\Debug\netcoreapp3.0\Number Array.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\obj\Debug\netcoreapp3.0\Number Array.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\obj\Debug\netcoreapp3.0\Number Array.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\obj\Debug\netcoreapp3.0\Number Array.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Number Array\obj\Debug\netcoreapp3.0\Number Array.pdb

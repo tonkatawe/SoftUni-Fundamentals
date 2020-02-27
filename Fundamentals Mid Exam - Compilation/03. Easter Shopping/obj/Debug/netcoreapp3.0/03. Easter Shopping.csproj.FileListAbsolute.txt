@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\bin\Debug\netcoreapp3.0\03. Easter Shopping.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\bin\Debug\netcoreapp3.0\03. Easter Shopping.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\bin\Debug\netcoreapp3.0\03. Easter Shopping.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\bin\Debug\netcoreapp3.0\03. Easter Shopping.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\bin\Debug\netcoreapp3.0\03. Easter Shopping.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\bin\Debug\netcoreapp3.0\03. Easter Shopping.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\obj\Debug\netcoreapp3.0\03. Easter Shopping.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\obj\Debug\netcoreapp3.0\03. Easter Shopping.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\obj\Debug\netcoreapp3.0\03. Easter Shopping.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\obj\Debug\netcoreapp3.0\03. Easter Shopping.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Easter Shopping\obj\Debug\netcoreapp3.0\03. Easter Shopping.pdb

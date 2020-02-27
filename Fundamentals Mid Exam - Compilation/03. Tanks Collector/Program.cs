@@ -7,7 +7,6 @@ namespace _03._Tanks_Collector
 {
     class Program
     {
-        //80/100 need check
         static void Main(string[] args)
         {
             List<string> alreadyOwnedTanks = Console.ReadLine().Split(", ", StringSplitOptions.RemoveEmptyEntries).ToList();

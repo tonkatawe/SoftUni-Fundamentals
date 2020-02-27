@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\bin\Debug\netcoreapp3.0\Tasks Planner.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\Tasks Planner\obj\Debug\netcoreapp3.0\Tasks Planner.pdb
