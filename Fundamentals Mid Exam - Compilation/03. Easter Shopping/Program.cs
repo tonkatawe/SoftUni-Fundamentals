@@ -4,7 +4,8 @@ using System.Linq;
 namespace _03._Easter_Shopping
 {
     class Program
-    {// 80/100 check
+    {
+        // 80/100 check
         static void Main(string[] args)
         {
             List<string> shops = Console.ReadLine().Split(" ").ToList();
