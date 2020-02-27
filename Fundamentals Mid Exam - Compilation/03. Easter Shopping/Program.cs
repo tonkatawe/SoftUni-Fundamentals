@@ -5,7 +5,6 @@ namespace _03._Easter_Shopping
 {
     class Program
     {
-        // 80/100 check
         static void Main(string[] args)
         {
             List<string> shops = Console.ReadLine().Split(" ").ToList();
@@ -29,7 +28,7 @@ namespace _03._Easter_Shopping
                     if (command == "first")
                     {
                         var index = int.Parse(tokens[2]);
-                        if (index >= 0 && index < shops.Count)
+                        if (index >= 0 && index <= shops.Count)
                         {
                             shops.RemoveRange(0, index);
                         }
@@ -37,7 +36,7 @@ namespace _03._Easter_Shopping
                     else if (command == "last")
                     {
                         var index = int.Parse(tokens[2]);
-                        if (index >= 0 && index < shops.Count)
+                        if (index >= 0 && index <= shops.Count)
                         {
                             shops.Reverse();
                             shops.RemoveRange(0, index);
