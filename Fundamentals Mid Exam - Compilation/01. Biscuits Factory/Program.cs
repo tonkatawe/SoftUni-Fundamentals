@@ -4,6 +4,7 @@ namespace _01._Biscuits_Factory
 {
     class Program
     {
+        //pass for mid Exam - chill_out
         static void Main(string[] args)
         {
             int biscuitsPerDay = int.Parse(Console.ReadLine());
