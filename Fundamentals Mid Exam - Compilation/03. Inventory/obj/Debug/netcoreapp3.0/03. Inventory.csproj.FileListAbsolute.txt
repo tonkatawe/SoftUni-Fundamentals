@@ -1,0 +1,10 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\bin\Debug\netcoreapp3.0\03. Inventory.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\bin\Debug\netcoreapp3.0\03. Inventory.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\bin\Debug\netcoreapp3.0\03. Inventory.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\bin\Debug\netcoreapp3.0\03. Inventory.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\bin\Debug\netcoreapp3.0\03. Inventory.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\bin\Debug\netcoreapp3.0\03. Inventory.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\obj\Debug\netcoreapp3.0\03. Inventory.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\obj\Debug\netcoreapp3.0\03. Inventory.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\obj\Debug\netcoreapp3.0\03. Inventory.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\03. Inventory\obj\Debug\netcoreapp3.0\03. Inventory.pdb

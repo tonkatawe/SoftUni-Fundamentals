@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\bin\Debug\netcoreapp3.0\02. MuOnline.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\02. MuOnline\obj\Debug\netcoreapp3.0\02. MuOnline.pdb

@@ -1,0 +1,10 @@
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\bin\Debug\netcoreapp3.0\01. Bonus Scoring System.exe
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\bin\Debug\netcoreapp3.0\01. Bonus Scoring System.deps.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\bin\Debug\netcoreapp3.0\01. Bonus Scoring System.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\bin\Debug\netcoreapp3.0\01. Bonus Scoring System.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\bin\Debug\netcoreapp3.0\01. Bonus Scoring System.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\bin\Debug\netcoreapp3.0\01. Bonus Scoring System.pdb
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\obj\Debug\netcoreapp3.0\01. Bonus Scoring System.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\obj\Debug\netcoreapp3.0\01. Bonus Scoring System.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\obj\Debug\netcoreapp3.0\01. Bonus Scoring System.dll
+C:\GitHub repos\C# Fundamentals\Fundamentals Mid Exam - Compilation\01. Bonus Scoring System\obj\Debug\netcoreapp3.0\01. Bonus Scoring System.pdb
