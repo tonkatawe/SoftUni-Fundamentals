@@ -5,12 +5,13 @@ using System.Text;
 
 namespace _01._Warrior_s_Quest
 {
+    //50/100 have to check
     class Program
     {
         static void Main(string[] args)
         {
+            string result = Console.ReadLine();
             string command = Console.ReadLine();
-            string result = command;
 
             while (command != "For Azeroth")
             {
@@ -18,11 +19,13 @@ namespace _01._Warrior_s_Quest
                 var text = tokens[0];
                 if (text == "GladiatorStance")
                 {
-                    Console.WriteLine(text.ToUpper());
+                    result = result.ToUpper();
+                    Console.WriteLine(result);
                 }
                 else if (text == "DefensiveStance")
                 {
-                    Console.WriteLine(text.ToLower());
+                    result = result.ToLower();
+                    Console.WriteLine(result);
                 }
                 else if (text == "Dispel")
                 {
@@ -44,13 +47,22 @@ namespace _01._Warrior_s_Quest
                     {
                         var substring = tokens[2];
                         var substringNew = tokens[3];
-                        result = result.Replace(substring, substringNew);
-                        Console.WriteLine(result);
+                        var index = result.IndexOf(substring);
+                        if (substring.Length <= substringNew.Length)
+                        {
+                            result = result.Remove(index, substring.Length);
+                            result = result.Insert(index, substringNew);
+                            Console.WriteLine(result);
+
+                        }
 
                     }
                     else if (tokens[1] == "Remove")
                     {
                         var substring = tokens[2];
+                        var index = result.IndexOf(substring);
+                        result = result.Remove(index, substring.Length);
+                        Console.WriteLine(result);
 
                     }
                 }

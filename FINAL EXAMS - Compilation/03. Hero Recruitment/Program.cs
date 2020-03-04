@@ -18,13 +18,13 @@ namespace _03._Hero_Recruitment
                 if (instruction == "Enroll")
                 {
                     var heroName = tokens[1];
-                    if (!heroes.ContainsKey(heroName))
+                    if (heroes.ContainsKey(heroName))
                     {
-                        heroes.Add(heroName, new List<string>());
+                        Console.WriteLine($"{heroName} is already enrolled.");
                         command = Console.ReadLine();
                         continue;
                     }
-                    Console.WriteLine($"{heroName} is already enrolled.");
+                    heroes.Add(heroName, new List<string>());
                 }
                 else if (instruction == "Learn")
                 {
@@ -36,15 +36,16 @@ namespace _03._Hero_Recruitment
                         command = Console.ReadLine();
                         continue;
                     }
-                   else if (heroes.ContainsKey(heroName) && !heroes[heroName].Contains(heroSpell))
+                    else if (heroes.ContainsKey(heroName))
                     {
+                        if (heroes[heroName].Contains(heroSpell))
+                        {
+                            Console.WriteLine($"{heroName} has already learnt {heroSpell}.");
+                            command = Console.ReadLine();
+                            continue;
+                        }
                         heroes[heroName].Add(heroSpell);
-                        command = Console.ReadLine();
-                        continue;
-                    }
-                    else if (heroes.ContainsKey(heroName) && heroes[heroName].Contains(heroSpell))
-                    {
-                        Console.WriteLine($"{heroName} has already learnt {heroSpell}.");
+
                     }
                 }
                 else if (instruction == "Unlearn")
@@ -57,21 +58,21 @@ namespace _03._Hero_Recruitment
                         command = Console.ReadLine();
                         continue;
                     }
-                    else if (heroes.ContainsKey(heroName) && heroes[heroName].Contains(heroSpell))
+                    else if (heroes.ContainsKey(heroName))
                     {
-                        heroes[heroName].Remove(heroSpell);
-                        command = Console.ReadLine();
-                        continue;
-                    }
-                    else if (heroes.ContainsKey(heroName) && !heroes[heroName].Contains(heroSpell))
-                    {
+                        if (heroes[heroName].Contains(heroSpell))
+                        {
+                            heroes[heroName].Remove(heroSpell);
+                            command = Console.ReadLine();
+                            continue;
+                        }
                         Console.WriteLine($"{heroName} doesn't know {heroSpell}.");
                     }
                 }
                 command = Console.ReadLine();
             }
             Console.WriteLine("Heroes:");
-            foreach (var hero in heroes.OrderBy(x => x.Value.Count).ThenBy(x => x.Key))
+            foreach (var hero in heroes.OrderByDescending(x => x.Value.Count).ThenBy(x => x.Key))
             {
                 Console.WriteLine($"== {hero.Key}: {string.Join(", ", hero.Value)}");
             }
