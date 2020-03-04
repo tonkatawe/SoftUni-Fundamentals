@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\bin\Debug\netcoreapp3.0\03. Hero Recruitment.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Hero Recruitment\obj\Debug\netcoreapp3.0\03. Hero Recruitment.pdb

@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\bin\Debug\netcoreapp3.0\01. Warrior's Quest.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Warrior's Quest\obj\Debug\netcoreapp3.0\01. Warrior's Quest.pdb
