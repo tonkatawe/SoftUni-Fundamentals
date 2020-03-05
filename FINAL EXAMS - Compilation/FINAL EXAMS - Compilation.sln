@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Warrior's Quest", "01. Warrior's Quest\01. Warrior's Quest.csproj", "{DD63B10F-0DC1-48E6-BA8D-5F0BA443AAEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Warrior's Quest", "01. Warrior's Quest\01. Warrior's Quest.csproj", "{DD63B10F-0DC1-48E6-BA8D-5F0BA443AAEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Hero Recruitment", "03. Hero Recruitment\03. Hero Recruitment.csproj", "{5F50A783-1DEE-4FE8-92C6-3E210068CB1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Hero Recruitment", "03. Hero Recruitment\03. Hero Recruitment.csproj", "{5F50A783-1DEE-4FE8-92C6-3E210068CB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Boss Rush", "02. Boss Rush\02. Boss Rush.csproj", "{A0157F4D-E7AF-4F25-99D8-A03FECB76B28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5F50A783-1DEE-4FE8-92C6-3E210068CB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F50A783-1DEE-4FE8-92C6-3E210068CB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F50A783-1DEE-4FE8-92C6-3E210068CB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0157F4D-E7AF-4F25-99D8-A03FECB76B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0157F4D-E7AF-4F25-99D8-A03FECB76B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0157F4D-E7AF-4F25-99D8-A03FECB76B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0157F4D-E7AF-4F25-99D8-A03FECB76B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

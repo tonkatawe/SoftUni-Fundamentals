@@ -5,7 +5,7 @@ using System.Text;
 
 namespace _01._Warrior_s_Quest
 {
-    //50/100 have to check
+    //60/100 have to check
     class Program
     {
         static void Main(string[] args)
@@ -29,9 +29,10 @@ namespace _01._Warrior_s_Quest
                 }
                 else if (text == "Dispel")
                 {
+                    
                     var index = int.Parse(tokens[1]);
                     char letter = char.Parse(tokens[2]);
-                    if (index <= result.Length)
+                    if (index < result.Length) 
                     {
                         result = result.Replace(result[index], letter);
                         Console.WriteLine("Success!");
@@ -48,7 +49,7 @@ namespace _01._Warrior_s_Quest
                         var substring = tokens[2];
                         var substringNew = tokens[3];
                         var index = result.IndexOf(substring);
-                        if (substring.Length <= substringNew.Length)
+                        if (result.Contains(substring))
                         {
                             result = result.Remove(index, substring.Length);
                             result = result.Insert(index, substringNew);
