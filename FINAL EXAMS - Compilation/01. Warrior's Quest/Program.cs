@@ -29,10 +29,10 @@ namespace _01._Warrior_s_Quest
                 }
                 else if (text == "Dispel")
                 {
-                    
+
                     var index = int.Parse(tokens[1]);
                     char letter = char.Parse(tokens[2]);
-                    if (index < result.Length) 
+                    if (index < result.Length && index >= 0)
                     {
                         result = result.Replace(result[index], letter);
                         Console.WriteLine("Success!");
@@ -62,8 +62,12 @@ namespace _01._Warrior_s_Quest
                     {
                         var substring = tokens[2];
                         var index = result.IndexOf(substring);
-                        result = result.Remove(index, substring.Length);
-                        Console.WriteLine(result);
+                        if (result.Contains(substring))
+                        {
+
+                            result = result.Remove(index, substring.Length);
+                            Console.WriteLine(result);
+                        }
 
                     }
                 }
