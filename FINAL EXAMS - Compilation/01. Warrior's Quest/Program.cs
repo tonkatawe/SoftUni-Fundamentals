@@ -34,7 +34,10 @@ namespace _01._Warrior_s_Quest
                     char letter = char.Parse(tokens[2]);
                     if (index < result.Length && index >= 0)
                     {
-                        result = result.Replace(result[index], letter);
+                        char[] temp = result.ToCharArray();
+                        temp[index] = letter;
+                        result = new string(temp);
+
                         Console.WriteLine("Success!");
                     }
                     else
@@ -48,27 +51,26 @@ namespace _01._Warrior_s_Quest
                     {
                         var substring = tokens[2];
                         var substringNew = tokens[3];
-                        var index = result.IndexOf(substring);
                         if (result.Contains(substring))
                         {
-                            result = result.Remove(index, substring.Length);
-                            result = result.Insert(index, substringNew);
+                            result = result.Replace(substring, substringNew);
                             Console.WriteLine(result);
-
                         }
-
                     }
                     else if (tokens[1] == "Remove")
                     {
                         var substring = tokens[2];
-                        var index = result.IndexOf(substring);
                         if (result.Contains(substring))
                         {
-
+                            var index = result.IndexOf(substring);
                             result = result.Remove(index, substring.Length);
                             Console.WriteLine(result);
                         }
 
+                    }
+                    else
+                    {
+                        Console.WriteLine("Command doesn't exist!");
                     }
                 }
                 else
