@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\bin\Debug\netcoreapp3.0\02. Boss Rush.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Boss Rush\obj\Debug\netcoreapp3.0\02. Boss Rush.pdb

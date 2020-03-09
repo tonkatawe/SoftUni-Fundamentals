@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\bin\Debug\netcoreapp3.0\03. Inbox Manager.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Inbox Manager\obj\Debug\netcoreapp3.0\03. Inbox Manager.pdb

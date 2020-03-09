@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\bin\Debug\netcoreapp3.0\02. Message Translator.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Translator\obj\Debug\netcoreapp3.0\02. Message Translator.pdb

@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\bin\Debug\netcoreapp3.0\01. Email Validator.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Email Validator\obj\Debug\netcoreapp3.0\01. Email Validator.pdb

@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\bin\Debug\netcoreapp3.0\03. Nikulden’s meals.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\03. Nikulden’s meals\obj\Debug\netcoreapp3.0\03. Nikulden’s meals.pdb

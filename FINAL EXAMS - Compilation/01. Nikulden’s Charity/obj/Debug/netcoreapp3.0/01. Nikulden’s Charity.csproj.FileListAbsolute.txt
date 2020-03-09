@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\bin\Debug\netcoreapp3.0\01. Nikulden’s Charity.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\01. Nikulden’s Charity\obj\Debug\netcoreapp3.0\01. Nikulden’s Charity.pdb

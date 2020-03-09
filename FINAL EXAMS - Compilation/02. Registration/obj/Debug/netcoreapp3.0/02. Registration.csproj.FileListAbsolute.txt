@@ -1,0 +1,11 @@
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.exe
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.deps.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.runtimeconfig.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.runtimeconfig.dev.json
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\bin\Debug\netcoreapp3.0\02. Registration.pdb
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.csprojAssemblyReference.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.AssemblyInfoInputs.cache
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.AssemblyInfo.cs
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.dll
+C:\GitHub repos\C# Fundamentals\FINAL EXAMS - Compilation\02. Registration\obj\Debug\netcoreapp3.0\02. Registration.pdb
