@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\vlaho\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\tonkatawe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub repos\\C# Fundamentals\\FINAL EXAMS - Compilation\\02. Registration\\02. Registration.csproj",
+      "projectUniqueName": "C:\\GitHubRepo\\C# Fundamentals\\FINAL EXAMS - Compilation\\02. Registration\\02. Registration.csproj",
       "projectName": "02. Registration",
-      "projectPath": "C:\\GitHub repos\\C# Fundamentals\\FINAL EXAMS - Compilation\\02. Registration\\02. Registration.csproj",
-      "packagesPath": "C:\\Users\\vlaho\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub repos\\C# Fundamentals\\FINAL EXAMS - Compilation\\02. Registration\\obj\\",
+      "projectPath": "C:\\GitHubRepo\\C# Fundamentals\\FINAL EXAMS - Compilation\\02. Registration\\02. Registration.csproj",
+      "packagesPath": "C:\\Users\\tonkatawe\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHubRepo\\C# Fundamentals\\FINAL EXAMS - Compilation\\02. Registration\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\vlaho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tonkatawe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,12 +53,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.0.2, 3.0.2]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
