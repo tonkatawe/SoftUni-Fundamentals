@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\bin\Debug\netcoreapp3.0\Username.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\bin\Debug\netcoreapp3.0\Username.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\bin\Debug\netcoreapp3.0\Username.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\bin\Debug\netcoreapp3.0\Username.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\bin\Debug\netcoreapp3.0\Username.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\bin\Debug\netcoreapp3.0\Username.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\obj\Debug\netcoreapp3.0\Username.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\obj\Debug\netcoreapp3.0\Username.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\obj\Debug\netcoreapp3.0\Username.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\obj\Debug\netcoreapp3.0\Username.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\Username\obj\Debug\netcoreapp3.0\Username.pdb

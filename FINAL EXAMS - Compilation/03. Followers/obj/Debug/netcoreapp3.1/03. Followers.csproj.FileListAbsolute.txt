@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\bin\Debug\netcoreapp3.1\03. Followers.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\bin\Debug\netcoreapp3.1\03. Followers.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\bin\Debug\netcoreapp3.1\03. Followers.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\bin\Debug\netcoreapp3.1\03. Followers.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\bin\Debug\netcoreapp3.1\03. Followers.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\bin\Debug\netcoreapp3.1\03. Followers.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\obj\Debug\netcoreapp3.1\03. Followers.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\obj\Debug\netcoreapp3.1\03. Followers.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\obj\Debug\netcoreapp3.1\03. Followers.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\obj\Debug\netcoreapp3.1\03. Followers.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Followers\obj\Debug\netcoreapp3.1\03. Followers.pdb

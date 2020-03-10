@@ -9,7 +9,7 @@ namespace _02._Password
         {
             //have to check 60/100
             var numberOfPasswd = int.Parse(Console.ReadLine());
-            var pattern = @"(?<symbols>\w*?\W*)(>)(\d{3})\|([a-z]{3})\|([A-Z]{3})\|(\D{3})(<)\k<symbols>";
+            var pattern = @"^(.+)>(\d{3})\|([a-z]{3})\|([A-Z]{3})\|([^<>]{3})<\1$";
             for (int i = 0; i < numberOfPasswd; i++)
             {
                 var password = Console.ReadLine();
