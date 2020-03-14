@@ -30,7 +30,6 @@ namespace _03._Battle_Manager
                         else
                         {
                             userAndHealth[username] += health;
-                            userAndEnergy[username] += energy;
                         }
                     }
                 }
@@ -49,7 +48,7 @@ namespace _03._Battle_Manager
                             userAndEnergy.Remove(defenderName);
                             userAndHealth.Remove(defenderName);
                         }
-                        if (userAndEnergy[attackerName] == 0) //here might be need to chek with <=
+                        if (userAndEnergy[attackerName] <= 0) //here might be need to chek with <=
                         {
                             Console.WriteLine($"{attackerName} was disqualified!");
                             userAndEnergy.Remove(attackerName);
