@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Password", "02. Passwor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Username", "Username\Username.csproj", "{555BB1FB-F0C7-46E8-8395-CDA86CD24A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Followers", "03. Followers\03. Followers.csproj", "{A4975E6A-39BD-4C88-8460-623981B01D0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Followers", "03. Followers\03. Followers.csproj", "{A4975E6A-39BD-4C88-8460-623981B01D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. String Manipulator", "01. String Manipulator\01. String Manipulator.csproj", "{FA855280-9A69-40CC-A3C6-24B148CA9A29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Message Encrypter", "02. Message Encrypter\02. Message Encrypter.csproj", "{FF230D18-1A69-491E-BBCC-6ECB591EC484}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{A4975E6A-39BD-4C88-8460-623981B01D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4975E6A-39BD-4C88-8460-623981B01D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4975E6A-39BD-4C88-8460-623981B01D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA855280-9A69-40CC-A3C6-24B148CA9A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA855280-9A69-40CC-A3C6-24B148CA9A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA855280-9A69-40CC-A3C6-24B148CA9A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA855280-9A69-40CC-A3C6-24B148CA9A29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF230D18-1A69-491E-BBCC-6ECB591EC484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF230D18-1A69-491E-BBCC-6ECB591EC484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF230D18-1A69-491E-BBCC-6ECB591EC484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF230D18-1A69-491E-BBCC-6ECB591EC484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

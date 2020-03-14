@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.pdb
