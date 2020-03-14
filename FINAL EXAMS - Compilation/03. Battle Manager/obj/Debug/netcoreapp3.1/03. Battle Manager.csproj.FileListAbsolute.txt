@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\bin\Debug\netcoreapp3.1\03. Battle Manager.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\bin\Debug\netcoreapp3.1\03. Battle Manager.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\bin\Debug\netcoreapp3.1\03. Battle Manager.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\bin\Debug\netcoreapp3.1\03. Battle Manager.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\bin\Debug\netcoreapp3.1\03. Battle Manager.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\bin\Debug\netcoreapp3.1\03. Battle Manager.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\obj\Debug\netcoreapp3.1\03. Battle Manager.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\obj\Debug\netcoreapp3.1\03. Battle Manager.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\obj\Debug\netcoreapp3.1\03. Battle Manager.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\obj\Debug\netcoreapp3.1\03. Battle Manager.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. Battle Manager\obj\Debug\netcoreapp3.1\03. Battle Manager.pdb

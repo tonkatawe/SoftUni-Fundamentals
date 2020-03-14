@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Username", "Username\Userna
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Followers", "03. Followers\03. Followers.csproj", "{A4975E6A-39BD-4C88-8460-623981B01D0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. String Manipulator", "01. String Manipulator\01. String Manipulator.csproj", "{FA855280-9A69-40CC-A3C6-24B148CA9A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. String Manipulator", "01. String Manipulator\01. String Manipulator.csproj", "{FA855280-9A69-40CC-A3C6-24B148CA9A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Message Encrypter", "02. Message Encrypter\02. Message Encrypter.csproj", "{FF230D18-1A69-491E-BBCC-6ECB591EC484}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Message Encrypter", "02. Message Encrypter\02. Message Encrypter.csproj", "{FF230D18-1A69-491E-BBCC-6ECB591EC484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Battle Manager", "03. Battle Manager\03. Battle Manager.csproj", "{68ABB5EA-7581-4617-8000-E5C2D2B70AC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{FF230D18-1A69-491E-BBCC-6ECB591EC484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF230D18-1A69-491E-BBCC-6ECB591EC484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF230D18-1A69-491E-BBCC-6ECB591EC484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68ABB5EA-7581-4617-8000-E5C2D2B70AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ABB5EA-7581-4617-8000-E5C2D2B70AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68ABB5EA-7581-4617-8000-E5C2D2B70AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ABB5EA-7581-4617-8000-E5C2D2B70AC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\bin\Debug\netcoreapp3.1\02. Message Encrypter.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\bin\Debug\netcoreapp3.1\02. Message Encrypter.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\bin\Debug\netcoreapp3.1\02. Message Encrypter.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\bin\Debug\netcoreapp3.1\02. Message Encrypter.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\bin\Debug\netcoreapp3.1\02. Message Encrypter.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\bin\Debug\netcoreapp3.1\02. Message Encrypter.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\obj\Debug\netcoreapp3.1\02. Message Encrypter.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\obj\Debug\netcoreapp3.1\02. Message Encrypter.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\obj\Debug\netcoreapp3.1\02. Message Encrypter.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\obj\Debug\netcoreapp3.1\02. Message Encrypter.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Message Encrypter\obj\Debug\netcoreapp3.1\02. Message Encrypter.pdb
