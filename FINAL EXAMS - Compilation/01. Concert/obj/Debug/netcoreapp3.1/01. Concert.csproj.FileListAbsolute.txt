@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\bin\Debug\netcoreapp3.1\01. Concert.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\bin\Debug\netcoreapp3.1\01. Concert.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\bin\Debug\netcoreapp3.1\01. Concert.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\bin\Debug\netcoreapp3.1\01. Concert.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\bin\Debug\netcoreapp3.1\01. Concert.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\bin\Debug\netcoreapp3.1\01. Concert.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\obj\Debug\netcoreapp3.1\01. Concert.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\obj\Debug\netcoreapp3.1\01. Concert.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\obj\Debug\netcoreapp3.1\01. Concert.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\obj\Debug\netcoreapp3.1\01. Concert.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Concert\obj\Debug\netcoreapp3.1\01. Concert.pdb

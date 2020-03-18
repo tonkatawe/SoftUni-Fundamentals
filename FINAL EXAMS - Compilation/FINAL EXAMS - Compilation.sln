@@ -37,7 +37,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Manipulator v2", "St
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Message Decrypter v2", "02. Message Decrypter v2\02. Message Decrypter v2.csproj", "{18C6B902-AD07-4B00-A7A4-59EB7D32DE80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Messages Manager v2", "03. Messages Manager v2\03. Messages Manager v2.csproj", "{BC2AE1D5-2948-4C78-883C-3665F3FBD6D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Messages Manager v2", "03. Messages Manager v2\03. Messages Manager v2.csproj", "{BC2AE1D5-2948-4C78-883C-3665F3FBD6D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Concert", "01. Concert\01. Concert.csproj", "{4F93C7E8-5F6B-4804-B497-FA00E6C3D2C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{BC2AE1D5-2948-4C78-883C-3665F3FBD6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2AE1D5-2948-4C78-883C-3665F3FBD6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2AE1D5-2948-4C78-883C-3665F3FBD6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F93C7E8-5F6B-4804-B497-FA00E6C3D2C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F93C7E8-5F6B-4804-B497-FA00E6C3D2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F93C7E8-5F6B-4804-B497-FA00E6C3D2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F93C7E8-5F6B-4804-B497-FA00E6C3D2C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
