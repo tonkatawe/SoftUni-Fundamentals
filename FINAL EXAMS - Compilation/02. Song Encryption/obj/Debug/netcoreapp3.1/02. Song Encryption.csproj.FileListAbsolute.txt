@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\bin\Debug\netcoreapp3.1\02. Song Encryption.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\bin\Debug\netcoreapp3.1\02. Song Encryption.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\bin\Debug\netcoreapp3.1\02. Song Encryption.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\bin\Debug\netcoreapp3.1\02. Song Encryption.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\bin\Debug\netcoreapp3.1\02. Song Encryption.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\bin\Debug\netcoreapp3.1\02. Song Encryption.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\obj\Debug\netcoreapp3.1\02. Song Encryption.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\obj\Debug\netcoreapp3.1\02. Song Encryption.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\obj\Debug\netcoreapp3.1\02. Song Encryption.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\obj\Debug\netcoreapp3.1\02. Song Encryption.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Song Encryption\obj\Debug\netcoreapp3.1\02. Song Encryption.pdb

@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\03. The Isle of Man TT Race.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\03. The Isle of Man TT Race.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\03. The Isle of Man TT Race.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\03. The Isle of Man TT Race.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\03. The Isle of Man TT Race.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\bin\Debug\netcoreapp3.1\03. The Isle of Man TT Race.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\03. The Isle of Man TT Race.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\03. The Isle of Man TT Race.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\03. The Isle of Man TT Race.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\03. The Isle of Man TT Race.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. The Isle of Man TT Race\obj\Debug\netcoreapp3.1\03. The Isle of Man TT Race.pdb
