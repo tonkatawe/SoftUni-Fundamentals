@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\01. Arriving in Kathmandu.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\01. Arriving in Kathmandu.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\01. Arriving in Kathmandu.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\01. Arriving in Kathmandu.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\01. Arriving in Kathmandu.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\bin\Debug\netcoreapp3.1\01. Arriving in Kathmandu.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\01. Arriving in Kathmandu.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\01. Arriving in Kathmandu.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\01. Arriving in Kathmandu.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\01. Arriving in Kathmandu.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Arriving in Kathmandu\obj\Debug\netcoreapp3.1\01. Arriving in Kathmandu.pdb

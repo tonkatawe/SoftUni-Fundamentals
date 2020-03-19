@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\bin\Debug\netcoreapp3.1\02. Practice Sessions.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\bin\Debug\netcoreapp3.1\02. Practice Sessions.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\bin\Debug\netcoreapp3.1\02. Practice Sessions.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\bin\Debug\netcoreapp3.1\02. Practice Sessions.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\bin\Debug\netcoreapp3.1\02. Practice Sessions.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\bin\Debug\netcoreapp3.1\02. Practice Sessions.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\obj\Debug\netcoreapp3.1\02. Practice Sessions.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\obj\Debug\netcoreapp3.1\02. Practice Sessions.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\obj\Debug\netcoreapp3.1\02. Practice Sessions.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\obj\Debug\netcoreapp3.1\02. Practice Sessions.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Practice Sessions\obj\Debug\netcoreapp3.1\02. Practice Sessions.pdb

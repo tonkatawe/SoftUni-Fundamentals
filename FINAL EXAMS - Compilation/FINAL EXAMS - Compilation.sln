@@ -41,9 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Messages Manager v2", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Concert", "01. Concert\01. Concert.csproj", "{4F93C7E8-5F6B-4804-B497-FA00E6C3D2C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Song Encryption", "02. Song Encryption\02. Song Encryption.csproj", "{B7C45BA2-0920-4F2A-A7EF-B3B391821EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Song Encryption", "02. Song Encryption\02. Song Encryption.csproj", "{B7C45BA2-0920-4F2A-A7EF-B3B391821EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. The Isle of Man TT Race", "03. The Isle of Man TT Race\03. The Isle of Man TT Race.csproj", "{0C8D4D01-BE00-4183-A8BD-9C2481A1CEFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. The Isle of Man TT Race", "03. The Isle of Man TT Race\03. The Isle of Man TT Race.csproj", "{0C8D4D01-BE00-4183-A8BD-9C2481A1CEFD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Practice Sessions", "02. Practice Sessions\02. Practice Sessions.csproj", "{6350C100-4EAA-4E44-AB69-D89C88D52A93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Arriving in Kathmandu", "01. Arriving in Kathmandu\01. Arriving in Kathmandu.csproj", "{ECA00382-376D-4BD7-A1F7-FF8244A64BA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{0C8D4D01-BE00-4183-A8BD-9C2481A1CEFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C8D4D01-BE00-4183-A8BD-9C2481A1CEFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C8D4D01-BE00-4183-A8BD-9C2481A1CEFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6350C100-4EAA-4E44-AB69-D89C88D52A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6350C100-4EAA-4E44-AB69-D89C88D52A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6350C100-4EAA-4E44-AB69-D89C88D52A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6350C100-4EAA-4E44-AB69-D89C88D52A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA00382-376D-4BD7-A1F7-FF8244A64BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA00382-376D-4BD7-A1F7-FF8244A64BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA00382-376D-4BD7-A1F7-FF8244A64BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA00382-376D-4BD7-A1F7-FF8244A64BA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
