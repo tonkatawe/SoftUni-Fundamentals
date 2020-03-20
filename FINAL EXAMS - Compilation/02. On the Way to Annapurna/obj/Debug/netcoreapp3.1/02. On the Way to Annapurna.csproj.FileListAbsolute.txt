@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\bin\Debug\netcoreapp3.1\02. On the Way to Annapurna.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\bin\Debug\netcoreapp3.1\02. On the Way to Annapurna.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\bin\Debug\netcoreapp3.1\02. On the Way to Annapurna.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\bin\Debug\netcoreapp3.1\02. On the Way to Annapurna.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\bin\Debug\netcoreapp3.1\02. On the Way to Annapurna.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\bin\Debug\netcoreapp3.1\02. On the Way to Annapurna.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\obj\Debug\netcoreapp3.1\02. On the Way to Annapurna.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\obj\Debug\netcoreapp3.1\02. On the Way to Annapurna.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\obj\Debug\netcoreapp3.1\02. On the Way to Annapurna.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. On the Way to Annapurna\obj\Debug\netcoreapp3.1\02. On the Way to Annapurna.pdb
