@@ -7,7 +7,6 @@ namespace _01._Email_Validator
 {
     class Program
     {
-        //90/100 have to check! :)
         static void Main(string[] args)
         {
             var email = Console.ReadLine();
@@ -34,7 +33,7 @@ namespace _01._Email_Validator
                     var temp = string.Empty;
                     if (startIndex > 0 && startIndex < email.Length)
                     {
-                        temp = email.Substring(email.Length - startIndex);
+                        temp = email.Substring(email.Length - startIndex, startIndex);
 
                     }
                     Console.WriteLine(temp);
@@ -65,11 +64,8 @@ namespace _01._Email_Validator
                 else if (tokens[0] == "Replace")
                 {
                     char character = char.Parse(tokens[1]);
-                    if (email.Contains(character))
-                    {
-                        email = email.Replace(character, '-');
-                        Console.WriteLine(email);
-                    }
+                    email = email.Replace(character, '-');
+                    Console.WriteLine(email);
                 }
                 else if (tokens[0] == "Encrypt")
                 {
