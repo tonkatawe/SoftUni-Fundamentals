@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\bin\Debug\netcoreapp3.1\02. SoftUni Karaoke.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\bin\Debug\netcoreapp3.1\02. SoftUni Karaoke.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\bin\Debug\netcoreapp3.1\02. SoftUni Karaoke.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\bin\Debug\netcoreapp3.1\02. SoftUni Karaoke.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\bin\Debug\netcoreapp3.1\02. SoftUni Karaoke.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\bin\Debug\netcoreapp3.1\02. SoftUni Karaoke.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\obj\Debug\netcoreapp3.1\02. SoftUni Karaoke.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\obj\Debug\netcoreapp3.1\02. SoftUni Karaoke.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\obj\Debug\netcoreapp3.1\02. SoftUni Karaoke.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\obj\Debug\netcoreapp3.1\02. SoftUni Karaoke.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. SoftUni Karaoke\obj\Debug\netcoreapp3.1\02. SoftUni Karaoke.pdb

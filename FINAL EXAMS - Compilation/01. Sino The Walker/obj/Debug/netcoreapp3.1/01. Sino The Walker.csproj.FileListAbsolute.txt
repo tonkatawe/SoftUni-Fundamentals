@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.pdb
