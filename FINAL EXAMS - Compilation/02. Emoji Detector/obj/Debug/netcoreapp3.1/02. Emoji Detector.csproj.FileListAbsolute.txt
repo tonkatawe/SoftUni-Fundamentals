@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\bin\Debug\netcoreapp3.1\02. Emoji Detector.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.csprojAssemblyReference.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\02. Emoji Detector\obj\Debug\netcoreapp3.1\02. Emoji Detector.pdb

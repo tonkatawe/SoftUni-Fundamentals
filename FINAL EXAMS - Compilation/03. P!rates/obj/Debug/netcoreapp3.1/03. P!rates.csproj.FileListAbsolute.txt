@@ -1,0 +1,11 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\bin\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\03. P!rates\obj\Debug\netcoreapp3.1\03. P!rates.csprojAssemblyReference.cache

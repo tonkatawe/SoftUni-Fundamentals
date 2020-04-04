@@ -1,0 +1,10 @@
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+C:\GitHubRepo\C# Fundamentals\FINAL EXAMS - Compilation\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
